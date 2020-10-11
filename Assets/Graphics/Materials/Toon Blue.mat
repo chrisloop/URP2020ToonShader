@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Toon Blue
+  m_Shader: {fileID: -6465566751694194690, guid: b31ea42934f52ac448824d8c9a57a11a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SSAO_OcclusionTextur:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SSAO_OcclusionTexture2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3f62569ac97442d184c33a581edfd62f_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_02b4005b8a69416382e3e1f9791d0104: 1
+    - Vector1_610805d7363e4c5a95e5a4fc2beb64ed: 0.003
+    - Vector1_7e6732481a564681b4a489b4bd94631f: 9
+    - Vector1_933c68c57c2a48038a6dbb856f150f0b: 0.96
+    - Vector1_b531716a48f44eb69599b7339eac1a49: 0.3
+    - Vector1_f0fd6eda6d1547f9b0b2babf25cd0666: 0.5
+    - Vector1_fd36bbf533f74140892d9a76400243a4: 2
+    m_Colors:
+    - Color_7c94ed4f0fd241e1b0fa8c311979867e: {r: 0.9176471, g: 0.7843138, b: 0.5529412, a: 1}
+    - Color_a2697f6422104fac8dbfa6b556508922: {r: 0.9462194, g: 1.0592737, b: 0.33830205, a: 1}
+    - Color_af94935346864900b9ec2f92b5e1d09b: {r: 0.090196066, g: 0.5520446, b: 0.7607843, a: 1}
+  m_BuildTextureStacks: []
